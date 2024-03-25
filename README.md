@@ -3,7 +3,7 @@ pixel-dungeon-gdx
 
 GDX port of the awesome [Pixel Dungeon](https://github.com/watabou/pixel-dungeon)
 
-This is a fork of Arcnor's GDX port pushed to *Pixel Dungeon* 1.9.2a. In addition, it has a working html backend. You can play it on https://gnojus.github.io/pixel-dungeon-gdx.
+This is a fork of Arcnor's GDX port pushed to *Pixel Dungeon* 1.9.2a. In addition, it has a working html backend. You can play it on https://undyingscroll.github.io/pixel-dungeon-gdx.
 
 This fork is focused on the desktop/html versions, therefore I don't intend to maintain the mobile versions and those are likely to be removed in future.
 
