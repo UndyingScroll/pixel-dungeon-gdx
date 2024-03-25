@@ -17,3 +17,5 @@ Download the [latest jar](https://github.com/gnojus/pixel-dungeon-gdx/releases) 
  - `./gradlew html:dist` to compile a webapp (located in `html/build/dist/`). You may want to remove the super-dev button directly from html.
 
 For more info about gradle tasks: https://github.com/libgdx/libgdx/wiki/Gradle-on-the-Commandline
+
+token test
