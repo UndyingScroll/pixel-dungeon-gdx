@@ -129,7 +129,7 @@ public class Hero extends Char {
 	private static final String TXT_WAIT	= "...";
 	private static final String TXT_SEARCH	= "search";
 	
-	public static final int STARTING_STR = 10;
+	public static final int STARTING_STR = 12;
 	
 	private static final float TIME_TO_REST		= 1f;
 	private static final float TIME_TO_SEARCH	= 2f;
@@ -171,7 +171,7 @@ public class Hero extends Char {
 		super();
 		name = "you";
 		
-		HP = HT = 20;
+		HP = HT = 40;
 		STR = STARTING_STR;
 		awareness = 0.1f;
 		
